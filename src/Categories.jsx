@@ -12,7 +12,7 @@ function Categories() {
 </svg>
         <p className='text-white'>Groceries</p>
             </div>
-            <div className='flex p-6 bg-blue-400 flex-col items-center justify-between rounded-2xl'>
+            <div className='flex p-4 bg-blue-400 flex-col items-center justify-between rounded-2xl'>
             <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M7.875 5.625V28.125H28.125V5.625H7.875ZM7.875 3.375H28.125C29.3676 3.375 30.375 4.38236 30.375 5.625V28.125C30.375 29.3676 29.3676 30.375 28.125 30.375H7.875C6.63236 30.375 5.625 29.3676 5.625 28.125V5.625C5.625 4.38236 6.63236 3.375 7.875 3.375Z" fill="white"/>
 <path d="M23.5996 8.9571C22.9783 8.9571 22.4746 8.45342 22.4746 7.8321C22.4746 7.21078 22.9783 6.7071 23.5996 6.7071H25.9084C26.5297 6.7071 27.0334 7.21078 27.0334 7.8321C27.0334 8.45342 26.5297 8.9571 25.9084 8.9571H23.5996Z" fill="white"/>

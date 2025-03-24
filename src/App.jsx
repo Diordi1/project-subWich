@@ -9,6 +9,7 @@ import Carasoul from './Carasoul'
 import Categories from './Categories'
 import Selector from './Selector'
 import PrevOrder from './PrevOrder'
+import Caption from './Caption'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -25,6 +26,7 @@ function App() {
       <Categories/>
       <PrevOrder/>
       {/* </div> */}
+      <Caption/>
       <Selector/>
    </div>
     </>

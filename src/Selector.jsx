@@ -17,11 +17,12 @@ function Selector() {
 
 
         </div>
-        <div className='border flex items-center  bg-black rounded-full p-2 bottom-[50%] left-[40vw]  absolute w-fit h-fit'>
+        <div className='border flex items-center  bg-black rounded-full p-2 bottom-[50%] left-[38vw]  absolute w-fit h-fit'>
 
-        <div className='bg-orange-300 p-4   rounded-full border-6  border-white'>
+        <div className='bg-orange-300 p-4   rounded-full border-6  border-white relative '>
         <img src="cart.png" className='h-[25px] w-[25px]' ></img>
 
+        {/* <div class="absolute inline-flex items-center justify-center w-2 h-2 text-xs font-bold text-white bg-red-500 border-white rounded-full -top-0.25 -end-0.25 dark:border-gray-900"></div> */}
 
         </div>
         </div>
