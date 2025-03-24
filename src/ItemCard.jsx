@@ -32,7 +32,7 @@ function ItemCard() {
                 </p>
             </div>
             <div className="py-2 flex justify-center">
-                <button className="border-2 text-amber-400 px-8 py-3 font-semibold rounded-2xl">
+                <button className="border-2 text-amber-400 px-6 py-3 font-semibold rounded-2xl">
                     Add to cart
                 </button>
             </div>
