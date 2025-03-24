@@ -1,7 +1,7 @@
 import React from 'react';
 function Selector() {
     return (
-    <div className='bg-white p-4 border sticky bottom-0 w-full z-10'>
+    <div className='bg-white p-4  sticky bottom-0 w-full z-10'>
 
     <div className='flex items-center justify-between py-3'>
         <div>

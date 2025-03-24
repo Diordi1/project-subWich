@@ -10,6 +10,9 @@ import Categories from './Categories'
 import Selector from './Selector'
 import PrevOrder from './PrevOrder'
 import Caption from './Caption'
+import ItemCard from './ItemCard'
+import ItemCatalog from './ItemCatalog'
+import TopBrands from './TopBrand'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -26,6 +29,10 @@ function App() {
       <Categories/>
       <PrevOrder/>
       {/* </div> */}
+      {/* <ItemCard/>
+       */}
+       <ItemCatalog/>
+       <TopBrands/>
       <Caption/>
       <Selector/>
    </div>
