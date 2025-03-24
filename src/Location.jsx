@@ -8,8 +8,8 @@ function Location() {
                 <img src="pin.png" className='object-contain h-[20px] w-[20px]'></img>
             </div>
             <div className='px-3'>
-                <p>Bengaluru</p>
-                <p>BTM Layout,12345 </p>
+                <p>MANIT Bhopal</p>
+                <p>Manit,462003 </p>
 
             </div>
             </div>
