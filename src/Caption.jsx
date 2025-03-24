@@ -8,7 +8,7 @@ function Caption() {
                  in India</p>
             <hr>
             </hr>
-            <p>Diordel</p>
+            <p className='font-semibold'>Diordel</p>
         </div>
      );
 }
