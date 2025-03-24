@@ -15,7 +15,7 @@ function Head() {
                 </select>
                 </div>
                 <div className='p-1 bg-slate-300 rounded-full '>
-                    <img src="/image.png" className='object-cover h-[20px] w-[20px]'></img>
+                    <img src="/image1.png" className='object-cover h-[20px] w-[20px]'></img>
                 </div>
             </div>
         </div>
